@@ -6,8 +6,6 @@ Full-stack developer
 
 My name is Andrey, and I don't just write code – I create digital worlds. Since childhood, I've been fascinated by how a few lines of code can bring ideas to life, and now, after 3+ years in Full-Stack development, I continue to turn complex concepts into elegant solutions. My approach is a mix of analytics and creativity.: I like to take a task apart into atoms, and then assemble it into something more than just working functionality. I am inspired by projects at the intersection of technology and art, non-standard interfaces and systems that surprise users. My code is an open book. In my repositories you will find not only working projects, but also bold experiments – because sometimes the most unobvious way turned out to be the most correct one.
 
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [https://t.me/invose2](mailto:https://t.me/invose2)
 
 ### Skills
 
