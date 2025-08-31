@@ -67,19 +67,8 @@ In my repositories you’ll find not only production-ready projects, but also bo
 
 ---
 
-## ⚙️ Tech Snapshot (JSON vibes)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
+</div>
 
-```javascript
-const andrey = {
-  role: "Full-Stack Developer",
-  yearsOfExperience: "3+",
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "NestJS", "FastAPI", "Django", "Flask"],
-    db: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    devops: ["Docker", "Nginx", "Linux"],
-    web3: ["Solana", "Ethereum"]
-  },
-  mindset: ["analytical", "creative", "product-focused"],
-  funFact: "I like turning complex specs into delightful UX."
-};
+> ✨ *“Code is more than instructions — it’s a way to shape experiences and inspire people.”*
