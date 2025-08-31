@@ -46,7 +46,7 @@ In my repositories you’ll find not only production-ready projects, but also bo
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,webpack,vite,ps,ai,ae,pr&perline=10" /></a>
 
 ### 🔗 Web3 / Crypto
-<a href="#"><img src="https://skillicons.dev/icons?i=solidity,ethereum,solana&perline=6" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=solidity,ethereum,solana,web3,metamask,polygon,binance&perline=7" /></a>
 
 </div>
 
@@ -69,4 +69,6 @@ In my repositories you’ll find not only production-ready projects, but also bo
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 </div>
 
-> ✨ *“Code is more than instructions — it’s a way to shape experiences and inspire people.”*
+<p align="center" style="color:#DA44B8; font-style:italic; font-weight:bold; font-size:16px;">
+✨ “Code is more than instructions — it’s a way to shape experiences and inspire people.” ✨
+</p>
