@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Full-Stack+Developer;Tech+Art+Enthusiast;Problem+Solver;Code+Architect" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Full-Stack+Developer;Frontend+developer;Blockchain+developer;On-chain+analyst" />
 
 </div>
 
