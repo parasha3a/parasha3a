@@ -70,5 +70,4 @@ In my repositories you’ll find not only production-ready projects, but also bo
 </div>
 
 <p align="center" style="color:#DA44B8; font-style:italic; font-weight:bold; font-size:16px;">
-✨ “Code is more than instructions — it’s a way to shape experiences and inspire people.” ✨
 </p>
