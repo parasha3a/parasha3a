@@ -2,7 +2,7 @@
     Let's make this place shine like pure gold!
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:673AB7&height=120&section=header" />
 
 <div align="center">
 
@@ -74,4 +74,4 @@ In my repositories you’ll find not only production-ready projects, but also bo
 <p align="center" style="color:#DA44B8; font-style:italic; font-weight:bold; font-size:16px;">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:673AB7&height=120&section=footer" />
