@@ -50,6 +50,17 @@ In my repositories you’ll find not only production-ready projects, but also bo
 ### 🔗 Web3 / Crypto
 <a href="#"><img src="https://skillicons.dev/icons?i=solidity,ethereum,solana,web3,metamask,polygon,binance&perline=7" /></a>
 
+<div style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="NEAR" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fantom-colored.svg" width="36" height="36" alt="Fantom" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/optimism-colored.svg" width="36" height="36" alt="Optimism" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cosmos-colored.svg" width="36" height="36" alt="Cosmos" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polkadot-colored.svg" width="36" height="36" alt="Polkadot" />
+</div>
+
 </div>
 
 ---
