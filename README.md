@@ -2,6 +2,8 @@
     Let's make this place shine like pure gold!
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=120&section=header" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Full-Stack+Developer;Frontend+developer;Blockchain+developer;On-chain+analyst" />
@@ -71,3 +73,5 @@ In my repositories you’ll find not only production-ready projects, but also bo
 
 <p align="center" style="color:#DA44B8; font-style:italic; font-weight:bold; font-size:16px;">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=120&section=footer" />
