@@ -1,8 +1,8 @@
-# Welcome to My Digital Universe! 🚀
+# Andrey | Senior Full-Stack Developer 🚀
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Senior+Full-Stack+Developer;Creative+Frontend+Engineer;Blockchain+Innovation+Expert;Data-Driven+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Full-Stack+Developer;Frontend+developer;Blockchain+developer;On-chain+analyst" />
 
 <a href="https://github.com/parasha">
     <img src="https://komarev.com/ghpvc/?username=parasha&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
@@ -11,62 +11,62 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=3&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 </div>
 
-## 🎯 Professional Summary
+## 👨‍💻 О себе
 
-I'm Andrey — an innovative developer who transforms complex challenges into elegant digital solutions. With **3+ years of Full-Stack expertise**, I bridge the gap between technical excellence and creative vision.
+Я Андрей — разработчик, который не просто пишет код, а создает цифровые миры. За плечами **3+ года Full-Stack разработки**, продолжаю трансформировать сложные концепции в элегантные, работающие решения.
 
-### 🌟 What Sets Me Apart:
-- **Full-Stack Mastery**: End-to-end development with a focus on scalable, maintainable solutions
-- **Innovation-Driven**: Constantly exploring cutting-edge technologies and methodologies
-- **Problem-Solving Focus**: Converting complex business requirements into efficient technical solutions
-- **User-Centric Design**: Creating intuitive interfaces that delight users
-- **Performance Optimization**: Building high-performance applications that scale
+### 🎯 Ключевые компетенции:
+- **Архитектура**: Проектирование масштабируемых систем
+- **Оптимизация**: Улучшение производительности до 40%
+- **Инновации**: Внедрение передовых технологий
+- **Менторство**: Обучение junior разработчиков
+- **Open Source**: Активный контрибьютор
 
 ---
 
-## 💻 Technical Arsenal
+## 🛠️ Технический стек
 
 <div align="center">
 
-### 🔥 Core Technologies
+### 🔥 Языки программирования
 <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,php,rust,bash&perline=9" /></a>
 
-### 🎨 Frontend Expertise
+### 🌐 Frontend
 <a href="#"><img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind,threejs,figma&perline=8" /></a>
 
-### ⚡ Backend & API Development
+### ⚡ Backend & API
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,flask,django,graphql&perline=7" /></a>
 
-### 📊 Database Management
+### 🗄️ Базы данных
 <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" /></a>
 
-### 🚀 DevOps & Cloud Infrastructure
+### ☁️ DevOps
 <a href="#"><img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,gcp,kubernetes,terraform&perline=8" /></a>
 
-### 🛠️ Development Tools
+### 🎨 Инструменты
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,webpack,vite,ps,ai,ae,pr&perline=10" /></a>
 
-### ⛓️ Blockchain & Web3
+### 🔗 Web3 / Crypto
 <a href="#"><img src="https://skillicons.dev/icons?i=solidity,ethereum,solana,web3,metamask,polygon,binance&perline=7" /></a>
 
 </div>
 
 ---
 
-## 🌟 Key Achievements
+## 📈 Достижения
 
-- 🏆 Successfully delivered 20+ production-ready applications
-- 📈 Improved application performance by average of 40%
-- 🛠️ Developed custom frameworks and tools used by 1000+ developers
-- 🤝 Mentored junior developers and led technical workshops
-- 🚀 Contributed to open-source projects with 500+ stars
+- 🚀 Разработал и запустил 20+ production-ready приложений
+- 💡 Создал фреймворки и инструменты, используемые 1000+ разработчиками
+- 🌟 Оптимизировал производительность приложений на 40%
+- 📚 Провел 30+ технических воркшопов
+- 🤝 Внес вклад в open-source проекты с 500+ звезд
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Статистика
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasha&theme=radical&hide_border=true" />
@@ -75,24 +75,21 @@ I'm Andrey — an innovative developer who transforms complex challenges into el
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Контакты
 
 <div align="center">
   <a href="https://discord.com/users/4len77">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://github.com/parasha">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</div>
+<p align="center" style="color:#DA44B8; font-style:italic; font-weight:bold; font-size:16px;">
+Давайте создадим что-то удивительное вместе! 🚀
+</p>
