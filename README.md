@@ -54,19 +54,6 @@ In my repositories you’ll find not only production-ready projects, but also bo
 
 ---
 
-## 🌍 Socials
-
-<div align="center">
-  <a href="https://discord.com/users/4len77">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-  <a href="https://github.com/parasha">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 </div>
