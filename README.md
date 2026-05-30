@@ -25,31 +25,24 @@ In my repositories you’ll find not only production-ready projects, but also bo
 
 ---
 
-## 🛠 Skills (with icons)
+## 🛠 Skills 
 
 <div align="center">
 
-### 🔥 Core Languages
-<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,php,rust,bash&perline=9" /></a>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,kotlin,php,go,dart,swift,c,cpp,cs,html,css&perline=15" />
 
-### 🌐 Frontend
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind,threejs,figma&perline=8" /></a>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxt,svelte,angular,tailwind,bootstrap,sass,vite,webpack&perline=11" />
 
-### ⚡ Backend & APIs
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,flask,django,graphql&perline=7" /></a>
+**Backend & Desktop**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,tauri,flutter,electron&perline=11" />
 
-### 🗄️ Databases
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" /></a>
+**Database & Cloud**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase,aws,cloudflare,vercel,nginx&perline=11" />
 
-### ☁️ DevOps & Runtime
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,gcp,kubernetes,terraform&perline=8" /></a>
-
-### 🎨 Tools
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,webpack,vite,ps,ai,ae,pr&perline=10" /></a>
-
-### 🔗 Web3 / Crypto
-<a href="#"><img src="https://skillicons.dev/icons?i=solidity,ethereum,solana,web3,metamask,polygon,binance&perline=7" /></a>
-
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,bash,vim,idea,vscode,postman,figma&perline=12" />
 </div>
 
 ---
